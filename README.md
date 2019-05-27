@@ -5,5 +5,5 @@
 
 # 2.click on create new Project
 
-# 3.next next next finally finish
+# 3. click next next next finally finish
 
